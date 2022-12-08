@@ -31,7 +31,5 @@ import seaborn as sns
 MANIFEST
 
 DS5100-2022-06-Final/
-
-    /fetal_health.ipynb
-    
-    /README
+* fetal_health.ipynb
+* README
