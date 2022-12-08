@@ -10,7 +10,7 @@ SYNOPSIS
 
 To run the Jupyter notebook associated with this project, download and install the following Python packages:
 
-`numpy', `pandas`, `os`, `sklearn.preprocessing`, `pymc`, `arviz`, `graphviz`, `scipy`, `matplotlib.pyplot`, `random`, `seaborn`
+`numpy`, `pandas`, `os`, `sklearn.preprocessing`, `pymc`, `arviz`, `graphviz`, `scipy`, `matplotlib.pyplot`, `random`, `seaborn`
 
 
 See the code block at the top of the file to import the packages for use in the project. It reads as follows:
@@ -33,7 +33,5 @@ import seaborn as sns
 MANIFEST
 
 DS5100-2022-06-Final/
-    
     fetal_health.ipynb
-    
     README
