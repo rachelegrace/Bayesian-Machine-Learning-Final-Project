@@ -2,7 +2,6 @@
 METADATA
 
 Name: Rachel Grace
-
 Project Name: Fetal Health Outcomes, Bayesian Machine Learning Final Project
 
 
@@ -11,9 +10,7 @@ SYNOPSIS
 To run the Jupyter notebook associated with this project, download and install the following Python packages:
 
 numpy
-
 pandas
-
 os
 
 sklearn.preprocessing
